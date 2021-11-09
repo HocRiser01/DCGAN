@@ -2,7 +2,7 @@ import torch
 
 class config(object):
 
-    batch_size = 100
+    batch_size = 128
     imageSize = 64
     In = 100
     Out = 3
